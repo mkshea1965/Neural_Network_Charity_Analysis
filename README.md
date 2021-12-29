@@ -1,6 +1,7 @@
 # Neural_Network_Charity_Analysis
 ## Overview of the Analysis
 The purpose of this analysis was to create a binary classifier using machine learning and neural networks to predict whether or not applicants will be funded by a chaity, Alphabet Soup. Through this analysis, 34,000 sub-recipients of Alphabet Soup's previous funding were analyzed to predict either "yes" or "no" for future funding recipients.
+## Results
 ### Data Preprocessing
 What variable(s) are considered the target(s) for your model? "IS_SUCCESSFUL" column
 What variable(s) are considered to be the features for your model? All other columns besides "IS_SUCCESSFUL" (APPLICATION_TYPE—Alphabet Soup application type
